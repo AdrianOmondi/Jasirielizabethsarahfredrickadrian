@@ -84,7 +84,7 @@ header .logo
 }
 header.sticky .logo
 {
-	color:#111;	 
+	color:#000000;	 
 }
 header ul
 {
@@ -101,7 +101,7 @@ header ul li a
 	position: relative;
 	display: inline-block;
 	margin:0 15px ;
-	color: #FFFF00;
+	color: #000000;
 	text-decoration: none;
 }
 header.sticky ul li a
